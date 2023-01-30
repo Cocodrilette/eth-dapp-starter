@@ -1,0 +1,3 @@
+[submodule "hardhat-env"]
+	path = hardhat-env
+	url = https://github.com/Cocodrilette/hardhat-env.git
